@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wen
+- 👋 Hi, I’m Harper
 - 🌱 I’m currently learning React.js and enhancing relevant skills of Front-end 
 - 📫 owilalala974@gmail.com
 
